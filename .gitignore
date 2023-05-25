@@ -7,3 +7,6 @@
 *.ReSharper.user
 *.resharper.user
 *.pfx
+/.vs/learn-orm/v17
+/tutorials/csharp/src/CSharpTutorialDemo/.vs/CSharpTutorialDemo/DesignTimeBuild/.dtbcache.v2
+/tutorials/csharp/src/CSharpTutorialDemo/.vs/CSharpTutorialDemo/FileContentIndex
