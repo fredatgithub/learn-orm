@@ -2,44 +2,44 @@
 
 namespace CSharpTutorialDemo
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            // User Input article examples
+      // User Input article examples
 
-            UserInput.ReadLineExample();
-            UserInput.ReadExample();
-            UserInput.ReadKeyExample();
-            //UserInput.ReadNumericValuesExample();
+      UserInput.ReadLineExample();
+      UserInput.ReadExample();
+      UserInput.ReadKeyExample();
+      //UserInput.ReadNumericValuesExample();
 
-            // Methods article examples
+      // Methods article examples
 
-            Methods.Caller();
+      Methods.Caller();
 
-            // Nullable Types article examples
+      // Nullable Types article examples
 
-            //NullableTypes.Example1();
-            //NullableTypes.Example2();
-            //NullableTypes.Example3();
-            //NullableTypes.Example4();
+      //NullableTypes.Example1();
+      //NullableTypes.Example2();
+      //NullableTypes.Example3();
+      //NullableTypes.Example4();
 
-            // Return Statement article examples
+      // Return Statement article examples
 
-            //ReturnStatement.Example1();
-            //ReturnStatement.Example2();
+      //ReturnStatement.Example1();
+      //ReturnStatement.Example2();
 
-            // Conditional Statements article example
+      // Conditional Statements article example
 
-            //ConditionalStatements.Example1();
-            //ConditionalStatements.Example2();
+      //ConditionalStatements.Example1();
+      //ConditionalStatements.Example2();
 
-            // Switch Statement article examples
+      // Switch Statement article examples
 
-            //SwitchStatement.SimpleSwitch();
-            //SwitchStatement.MultipleLabelsExample();
+      //SwitchStatement.SimpleSwitch();
+      //SwitchStatement.MultipleLabelsExample();
 
-            Console.ReadKey();
-        }
+      Console.ReadKey();
     }
+  }
 }
